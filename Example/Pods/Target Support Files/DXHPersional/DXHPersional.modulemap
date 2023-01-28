@@ -1,0 +1,6 @@
+framework module DXHPersional {
+  umbrella header "DXHPersional-umbrella.h"
+
+  export *
+  module * { export * }
+}

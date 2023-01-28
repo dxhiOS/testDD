@@ -1,0 +1,16 @@
+PODS:
+  - DXHPersional (0.1.0)
+
+DEPENDENCIES:
+  - DXHPersional (from `../`)
+
+EXTERNAL SOURCES:
+  DXHPersional:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DXHPersional: 6e2261dc7ad7d3991808440809627eb5ab8f7703
+
+PODFILE CHECKSUM: e32fbdcb7ac302ddec8e64efa63b526ca6c0a817
+
+COCOAPODS: 1.11.2
