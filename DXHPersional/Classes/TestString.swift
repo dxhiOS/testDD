@@ -9,6 +9,6 @@ import UIKit
 
 extension String {
     func test() {
-        NSLog("123123")
+        NSLog("1231233333")
     }
 }
